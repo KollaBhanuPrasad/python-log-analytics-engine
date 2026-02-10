@@ -14,8 +14,6 @@ This project implements a **lightweight, end-to-end log analytics pipeline** tha
 - Stores structured output in CSV format  
 - Visualizes insights through an interactive dashboard  
 
----
-
 ✨ Features
 
 - Real-time log simulation  
