@@ -1,6 +1,6 @@
-dask[complete]
+streamlit==1.19.0
+altair==4.2.2
 pandas
-distributed
-streamlit
-plotly
+numpy
 scikit-learn
+plotly
